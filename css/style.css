@@ -1,0 +1,62 @@
+.Brand{
+    background-color: #03026d !important; 
+    color: black !important;
+}
+
+ 
+/* Container holding the image and the text */
+.container-fluid {
+    position: relative;
+    text-align: center;
+    color: white;
+    
+  }
+  .ban{
+    background-color: #03026d;
+    /* opacity: .05; */
+  }
+  .vid{
+      
+      background-position: fill;
+      border-radius: 20px;
+     
+  }
+  * * {
+    box-sizing: border-box;
+}
+    
+  }
+  .one{
+     font-size: 50px !important;
+     
+  }
+
+.two{
+    /* border-right: 20px solid white; */
+    border-radius: 50px;
+    border-color:  blue !important;
+   
+}
+.three{
+    
+    border-radius: 50px;
+}
+.main{
+    background-color: whitesmoke;
+    
+}
+.main1{
+    font-size: 50px;
+    background-color: whitesmoke;
+}
+.fluid1{
+    background-color: #03026d !important; 
+}
+
+
+.bgg{
+    background-color: whitesmoke;
+} 
+.bgg1{
+    background-color: lightgrey;
+}
